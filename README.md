@@ -1,1 +1,1 @@
-<h2>React Name change Application - Testing</h2>
+<h2>React name change application - testing</h2>
